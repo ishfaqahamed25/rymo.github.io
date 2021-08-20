@@ -1,0 +1,13 @@
+Intel launches Arc GPU brand, first 'Alchemist' products coming early 2022
+
+
+
+Intel's long-awaited discrete graphics targeting gaming and content creation finally gets christened Monday with a family name, Intel Arc -- a play on the concept of a story arc and architecture. Formerly known as "DG2," and based on the HPG variant of the company's latest generation of its GPU designs, the first chips based on its Intel Xe HPG architecture bear the new codename "Alchemist." Intel plans to release more details by this end of the year and to begin shipping Alchemist products by the end of March 2022. Subsequent generations also get codenames as well: Battlemage, Celestial and Druid.   
+
+intel-lets-play-arc
+I waited years for Intel discrete graphics and all I got was this lousy t-shirt. (Just kidding. I didn't get a t-shirt.) This is the back.
+
+Intel
+We know little from the announcement other than those tidbits and that it will support all Windows DirectX 12 Ultimate features, and incorporate ray-tracing acceleration and AI-based supersampling for antialiasing (optimal edge smoothing). At this point, those three are essentials to compete for gaming dollars. Intel offers a video of some of the features in action, though it's not particularly informative.
+
+The desktop and console discrete GPU market, which some might consider a duopoly, will be a hard nut to crack after all these years. Nvidia dominates on the PC, with AMD occupying a sliver of PCs and owning the graphics in major consoles such as the Xbox Series X and Series S, PS5 and more. Simply delivering competitive performance may not be enough
